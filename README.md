@@ -39,7 +39,7 @@ Below is the screenshots of the challenge, the desktop view is 1440px and the mo
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Odo-Peter/frontend-mentor-sign-up)
-- Live Site URL: [odo-peter.vercel.app](https://frontend-mentor-sign-up-tfz5.vercel.app/)
+- Live Site URL: [odo-peter.vercel.app](https://vercel.com/odo-peter/frontend-mentor-sign-up-tfz5)
 
 ## My process
 
